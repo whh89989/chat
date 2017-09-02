@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\EasyChat_Server.exe
+bin\Debug\EasyChat_Server.pdb
+obj\Debug\EasyChat_Server.exe
+obj\Debug\EasyChat_Server.pdb
+bin\Release\EasyChat_Server.exe
+bin\Release\EasyChat_Server.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\EasyChat_Server.exe
+obj\Release\EasyChat_Server.pdb
